@@ -39,7 +39,7 @@ namespace WpfLukashenko
 
         private void btView_Click(object sender, RoutedEventArgs e)
         {
-            if (lbEmployee.SelectedIndex!=0)
+            if (lbEmployee.SelectedIndex!=-1)
             {
                 new ViewEmployee().ShowDialog();
 

@@ -19,3 +19,18 @@ D:\ProjectsC#\Education\c#\second_lvl\WpfLukashenko\WpfLukashenko\obj\Debug\View
 D:\Program C#\WpfLukashenko\WpfLukashenko\bin\Debug\WpfLukashenko.exe.config
 D:\Program C#\WpfLukashenko\WpfLukashenko\obj\Debug\WpfLukashenko.exe
 D:\Program C#\WpfLukashenko\WpfLukashenko\obj\Debug\WpfLukashenko.pdb
+D:\Program C#\WpfLukashenko\WpfLukashenko\bin\Debug\WpfLukashenko.exe
+D:\Program C#\WpfLukashenko\WpfLukashenko\bin\Debug\WpfLukashenko.pdb
+D:\Program C#\WpfLukashenko\WpfLukashenko\obj\Debug\WpfLukashenko.csprojResolveAssemblyReference.cache
+D:\Program C#\WpfLukashenko\WpfLukashenko\obj\Debug\MainWindow.g.cs
+D:\Program C#\WpfLukashenko\WpfLukashenko\obj\Debug\ViewEmployee .g.cs
+D:\Program C#\WpfLukashenko\WpfLukashenko\obj\Debug\NewEmployee.g.cs
+D:\Program C#\WpfLukashenko\WpfLukashenko\obj\Debug\App.g.cs
+D:\Program C#\WpfLukashenko\WpfLukashenko\obj\Debug\WpfLukashenko_MarkupCompile.cache
+D:\Program C#\WpfLukashenko\WpfLukashenko\obj\Debug\WpfLukashenko_MarkupCompile.lref
+D:\Program C#\WpfLukashenko\WpfLukashenko\obj\Debug\MainWindow.baml
+D:\Program C#\WpfLukashenko\WpfLukashenko\obj\Debug\ViewEmployee .baml
+D:\Program C#\WpfLukashenko\WpfLukashenko\obj\Debug\NewEmployee.baml
+D:\Program C#\WpfLukashenko\WpfLukashenko\obj\Debug\WpfLukashenko.g.resources
+D:\Program C#\WpfLukashenko\WpfLukashenko\obj\Debug\WpfLukashenko.Properties.Resources.resources
+D:\Program C#\WpfLukashenko\WpfLukashenko\obj\Debug\WpfLukashenko.csproj.GenerateResource.Cache
