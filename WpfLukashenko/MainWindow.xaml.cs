@@ -13,6 +13,11 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+//1. Создать сущности Employee и Department и заполните списки сущностей начальными данными.
+//2. Для списка сотрудников и списка департаментов предусмотреть визуализацию(отображение). Это можно сделать, например, с использованием ComboBox или ListView.
+//3. Предусмотреть возможность редактирования сотрудников и департаментов.Должна быть возможность изменить департамент у сотрудника. Список департаментов для выбора, можно выводить в ComboBox, это все можно выводить на дополнительной форме.
+//4. Предусмотреть возможность создания новых сотрудников и департаментов.Реализовать данную возможность либо на форме редактирования, либо сделать новую форму.
+// Лукашенко Валентина
 
 namespace WpfLukashenko
 {
@@ -34,7 +39,7 @@ namespace WpfLukashenko
 
         private void btView_Click(object sender, RoutedEventArgs e)
         {
-            if (lbEmployee.SelectedIndex!=0)
+            if (lbEmployee.SelectedIndex!=-1)
             {
                 new ViewEmployee().ShowDialog();
 
