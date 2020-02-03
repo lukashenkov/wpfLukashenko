@@ -1,0 +1,21 @@
+D:\ProjectsC#\Education\c#\second_lvl\WpfLukashenko\WpfLukashenko\bin\Debug\WpfLukashenko.exe.config
+D:\ProjectsC#\Education\c#\second_lvl\WpfLukashenko\WpfLukashenko\bin\Debug\WpfLukashenko.exe
+D:\ProjectsC#\Education\c#\second_lvl\WpfLukashenko\WpfLukashenko\bin\Debug\WpfLukashenko.pdb
+D:\ProjectsC#\Education\c#\second_lvl\WpfLukashenko\WpfLukashenko\obj\Debug\WpfLukashenko.csprojResolveAssemblyReference.cache
+D:\ProjectsC#\Education\c#\second_lvl\WpfLukashenko\WpfLukashenko\obj\Debug\MainWindow.g.cs
+D:\ProjectsC#\Education\c#\second_lvl\WpfLukashenko\WpfLukashenko\obj\Debug\NewEmployee.g.cs
+D:\ProjectsC#\Education\c#\second_lvl\WpfLukashenko\WpfLukashenko\obj\Debug\App.g.cs
+D:\ProjectsC#\Education\c#\second_lvl\WpfLukashenko\WpfLukashenko\obj\Debug\WpfLukashenko_MarkupCompile.cache
+D:\ProjectsC#\Education\c#\second_lvl\WpfLukashenko\WpfLukashenko\obj\Debug\WpfLukashenko_MarkupCompile.lref
+D:\ProjectsC#\Education\c#\second_lvl\WpfLukashenko\WpfLukashenko\obj\Debug\MainWindow.baml
+D:\ProjectsC#\Education\c#\second_lvl\WpfLukashenko\WpfLukashenko\obj\Debug\NewEmployee.baml
+D:\ProjectsC#\Education\c#\second_lvl\WpfLukashenko\WpfLukashenko\obj\Debug\WpfLukashenko.g.resources
+D:\ProjectsC#\Education\c#\second_lvl\WpfLukashenko\WpfLukashenko\obj\Debug\WpfLukashenko.Properties.Resources.resources
+D:\ProjectsC#\Education\c#\second_lvl\WpfLukashenko\WpfLukashenko\obj\Debug\WpfLukashenko.csproj.GenerateResource.Cache
+D:\ProjectsC#\Education\c#\second_lvl\WpfLukashenko\WpfLukashenko\obj\Debug\WpfLukashenko.exe
+D:\ProjectsC#\Education\c#\second_lvl\WpfLukashenko\WpfLukashenko\obj\Debug\WpfLukashenko.pdb
+D:\ProjectsC#\Education\c#\second_lvl\WpfLukashenko\WpfLukashenko\obj\Debug\ViewEmployee .g.cs
+D:\ProjectsC#\Education\c#\second_lvl\WpfLukashenko\WpfLukashenko\obj\Debug\ViewEmployee .baml
+D:\Program C#\WpfLukashenko\WpfLukashenko\bin\Debug\WpfLukashenko.exe.config
+D:\Program C#\WpfLukashenko\WpfLukashenko\obj\Debug\WpfLukashenko.exe
+D:\Program C#\WpfLukashenko\WpfLukashenko\obj\Debug\WpfLukashenko.pdb
